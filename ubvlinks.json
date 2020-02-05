@@ -1,0 +1,16 @@
+{
+  "title": "web page",
+  "description": "Json Web Page",
+  "webpages": [
+    { "id": "0", "titulo": "Pagina",  "pagina": "https://ubv.edu.ve/" },
+    { "id": "1", "titulo": "Intranet",  "pagina": "https://ubv.edu.ve/index.php/category/noticias/" },
+    { "id": "2", "titulo": "Geoportal",  "pagina": "https://ubv.lachuleta.info/" },
+    { "id": "3", "titulo": "SurUBV",  "pagina": "http://ubv.edu.ve/index.php/category/noticias/" },
+    { "id": "4", "titulo": "Noticias",  "pagina": "http://ubv.edu.ve/index.php/category/noticias/" },
+    { "id": "5", "titulo": "Eventos",  "pagina": "http://ubv.edu.ve/?s=eventos" },
+    { "id": "8", "titulo": "Instagram",  "pagina": "https://www.instagram.com/ubv.oficial/" },
+    { "id": "9", "titulo": "Facebook",  "pagina": "https://www.facebook.com/Universidad-Bolivariana-de-Venezuela-La-Casa-de-los-Saberes-294852527355805/" },
+    { "id": "10", "titulo": "Twitter",  "pagina": "https://twitter.com/ubv" },
+    { "id": "11", "titulo": "Youtube",  "pagina": "https://www.youtube.com/channel/UCUvPpKcWzgcwA6qWLL550uA" }
+  ]
+}
