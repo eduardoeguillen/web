@@ -1,6 +1,6 @@
 {
-  "title": "web page",
-  "description": "Json Web Page",
+  "title": "UBV Oficial",
+  "description": "Sistemas de Comunicacion, Administracion e Informacion de la UBV",
   "webpages": [
     { "id": "0", "titulo": "Pagina",  "pagina": "https://ubv.edu.ve/" },
     { "id": "1", "titulo": "Intranet",  "pagina": "https://ubv.edu.ve/index.php/category/noticias/" },
