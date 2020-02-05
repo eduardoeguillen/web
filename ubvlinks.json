@@ -3,9 +3,9 @@
   "description": "Sistemas de Comunicacion, Administracion e Informacion de la UBV",
   "webpages": [
     { "id": "0", "titulo": "Pagina",  "pagina": "https://ubv.edu.ve/" },
-    { "id": "1", "titulo": "Intranet",  "pagina": "https://ubv.edu.ve/index.php/category/noticias/" },
-    { "id": "2", "titulo": "Geoportal",  "pagina": "https://ubv.lachuleta.info/" },
-    { "id": "3", "titulo": "SurUBV",  "pagina": "http://ubv.edu.ve/index.php/category/noticias/" },
+    { "id": "1", "titulo": "Intranet",  "pagina": "https://intranet.ubv.edu.ve/" },
+    { "id": "2", "titulo": "Geoportal",  "pagina": "https://genesig.tk/ubv/" },
+    { "id": "3", "titulo": "SurUBV",  "pagina": "https://surubv.ubv.edu.ve/" },
     { "id": "4", "titulo": "Noticias",  "pagina": "http://ubv.edu.ve/index.php/category/noticias/" },
     { "id": "5", "titulo": "Eventos",  "pagina": "http://ubv.edu.ve/?s=eventos" },
     { "id": "8", "titulo": "Instagram",  "pagina": "https://www.instagram.com/ubv.oficial/" },
