@@ -2,7 +2,7 @@
   "title": "UBV Oficial",
   "description": "Sistemas de Comunicacion, Administracion e Informacion de la UBV",
   "webpages": [
-    { "id": "0", "titulo": "Pagina",  "pagina": "https://ubv.edu.ve/" },
+    { "id": "0", "titulo": "Pagina",  "pagina": "https://ubv.edu.ve/", "imagen": "https://raw.githubusercontent.com/eduardoeguillen/web/master/ubv.jpg" },
     { "id": "1", "titulo": "Intranet",  "pagina": "https://intranet.ubv.edu.ve/" },
     { "id": "2", "titulo": "Geoportal",  "pagina": "https://genesig.tk/ubv/" },
     { "id": "3", "titulo": "SurUBV",  "pagina": "https://surubv.ubv.edu.ve/" },
